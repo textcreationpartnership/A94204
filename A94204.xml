@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Collonel John Sares, delivered at the place of execution on the tenth of this instant month at Chester: with his protestation, that if he had a head of hair as big as Absolon, and every hair as strong as Sampson, he would spend them all for the good and honour of his king. Likewise, the charge of high treason read against him at the bar, for adhering to Charles the II, and his declaration upon the ladder: together with his tryumphant speech when the rope was put over his neck, saying; what a gallant mourning ribbon is this, which I wear for the true loyalty I bear to my king.</title>
+            <author>Sares, John, d. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94204</idno>
+            <idno type="STC">Wing S691</idno>
+            <idno type="STC">Thomason E656_19</idno>
+            <idno type="STC">ESTC R206628</idno>
+            <idno type="EEBO-CITATION">99865747</idno>
+            <idno type="PROQUEST">99865747</idno>
+            <idno type="VID">117998</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117998)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Collonel John Sares, delivered at the place of execution on the tenth of this instant month at Chester: with his protestation, that if he had a head of hair as big as Absolon, and every hair as strong as Sampson, he would spend them all for the good and honour of his king. Likewise, the charge of high treason read against him at the bar, for adhering to Charles the II, and his declaration upon the ladder: together with his tryumphant speech when the rope was put over his neck, saying; what a gallant mourning ribbon is this, which I wear for the true loyalty I bear to my king.</title>
+                  <author>Sares, John, d. 1651.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 18 1651"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sares, John, d. 1651.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117998:1" rendition="simple:additions"/>
+            <p>THE SPEECH Of Collonel JOHN SARES,</p>
+            <p>Delivered at the place of Execution on the tenth of this inſtant Month at Cheſter: With his Proteſtation, That if he had a head of Hair as big as <hi>Abſolon,</hi> and every hair as ſtrong as <hi>Sampſon,</hi> he would ſpend them all for the good and honour of His KING.</p>
+            <p>Likewiſe, the Charge of High Treaſon read againſt him at the Bar, for adhering to Charles the II; And his Declaration upon the Ladder: Together with his tryumphant Speech when the Rope was put over his Neck, ſaying;
+<q>What a gallant mourning Ribbon is this, which I wear for the true Loyalty I bear to my KING.</q>
+            </p>
+            <p>London, Printed for G. HORTON. 1652. <add>1651</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="scaffold_speech">
+            <pb facs="tcp:117998:2"/>
+            <pb n="3" facs="tcp:117998:2"/>
+            <head>A Speech made by Colonel John SARES at the place of Execution, in the Market-place at Weſtcheſter; who after a Try<g ref="char:EOLhyphen"/>all before a Councel of War, received Sentence to be hang'd upon a Gallows, for levying Forces againſt the Common Wealth of England, and aſſiſting the King of Scots againſt the Parliament.</head>
+            <opener>
+               <salute>Gentlemen and friends,</salute>
+            </opener>
+            <q>
+               <p>
+                  <seg rend="decorInit">I</seg> Am here come, and now ready to pay and ſuf<g ref="char:EOLhyphen"/>fer that Death which my good God hath ap<g ref="char:EOLhyphen"/>pointed for me, to his glory, and my own good, humbly confeſſing the ſame due to me for my ſins; I look upon it from him, though inſtrumentally by man. I here heartily ac<g ref="char:EOLhyphen"/>knowledg, that I have ſpent the prime of my age too much in vain company-keeping, &amp; more then convenient drink<g ref="char:EOLhyphen"/>ing, which is incident to too many men, and the Mother &amp; Nurſe of all miſchief. And likewiſe have broken, and, which
+<pb n="4" facs="tcp:117998:3"/>troubleth me moſt, deſpiſed that loyal knot of Matrimo<g ref="char:EOLhyphen"/>ny; but I bleſs my God, I have (after very much grief of heart) remorſe, and true ſorrow for the ſame, and wreſt<g ref="char:EOLhyphen"/>ling with my gracious and good God, through the merits of Chriſt and his interceſſion, obtained pardon, and receiv<g ref="char:EOLhyphen"/>ed comfort.</p>
+               <p>But beloved friends, I am not ſentenced by man, nor yet his power hath adjudged me to this Death, but God de<g ref="char:EOLhyphen"/>ſigned me to it; for this, nay this uſe I rather make of it, that the onely motives and chief cauſe of ſentencing me to this end, is not the loaſt grief or trouble to me, but rather occaſions tryumph and joy, that I am accounted worthy, although by the baſeſt of deaths, to ſuffer for my King; notwithſtanding others of honour have received noble deaths which could not be denyed them; yet it matters not the manner of the end, whileſt I have an aſſurance, that I, and all that have preceded me by what death ſoever, or ſhall hereafter ſuffer for the ſame Cauſe ſhall arrive at the Haven of Celeſtial Joy, and ever ſing Hallelujaes to him that ſitteth upon the Throne for evermore.</p>
+               <p>The Word of God requireth, <hi>Fear God, and honour the King:</hi> In the former I have been too remiſs, and neglected too too often, the Lord forgive me; nay he will, he hath forgiven me: And for the latter, my obeyſance to my liege Lord, and Soveraign King <hi>Charles</hi> the firſt, and after him <hi>Charles</hi> the ſecond: I was never cenſured, or in the leaſt tainted; but you ſee ſentenced by the contrary party for the ſame: I was alwayes for them in life, and am ſo ſtill, I dye for them; Nay I here profeſs, that if I had a head of hair as big as <hi>Abſolons,</hi> and every hair as ſtrong as <hi>Sampſon;</hi> And if I were to live as many <hi>Methuſalaes</hi> lives as I have haires on my head, I would ſpend them all for the good and ho<g ref="char:EOLhyphen"/>nour of my King.</p>
+            </q>
+            <p>
+               <pb n="5" facs="tcp:117998:3"/>
+Then he deſired M. <hi>Pack</hi> (the Miniſter) to ſing a <hi>Pſalm,</hi> and after wards to pray with him; which done, he turned towards the Ladder, and ſeeing it ſomewhat too ſhort, he ſaid <q>
+                  <hi>Jacob</hi> dreamed of a Laddrr which reached up to Hea<g ref="char:EOLhyphen"/>ven; what this Ladder wants in length, I hope by the ſup<g ref="char:EOLhyphen"/>port of Gods Spirit, and his holy Angels, I ſhall be convey<g ref="char:EOLhyphen"/>ed to Heaven, and be brought to my happy journeys end.</q> Then he gave the Executioner 3 <hi>li.</hi> and as he went up the Ladder intreated his friends not to weep for him, ſaying, <hi>That he was full of inward comfort, and freely forgave his Ene<g ref="char:EOLhyphen"/>mies,; And</hi> (ſaith he) <q>
+                  <hi>although they in<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ended evil to me, yet they have done me much good, in taking me out of a ſinful world, and out of a diſtreſſed Kingdom, and ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n diſtracted people, and ſen<g ref="char:EOLhyphen"/>d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, me ſooner to the Haven of happineſs, the Haven of eternall and everlasting rest.</hi> Now ſome may imagine, that Death doth work a terror and fear within me, and that I am afraid to dye; I muſt confeſs the laſt night, the fear of death, &amp; the amazement it brought unto me, and loathneſs to leave this World, troubled me very much: But I bleſs my God, I was comforted, incouraged, and well reſolved before the day appeared, that I durſt look Death undantedly in the face; and as I truſt God with my ſoul, ſo I leave and commit my children to his gracious and fatherly protection: All that is mine I leave unto them, hoping of Gods goodneſſe and bleſſing upon them. I have ever lived, and dye a Proteſt<g ref="char:EOLhyphen"/>ant, and ſo far as I ever conceived and verily believe, the late King, as alſo this, were ever Proteſtants, and ſtood for the <hi>Pro<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>estant Re<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igion:</hi> and therefore I was for him, who is not; and for him, for whoſe cauſe I now dye, praying to God to bleſſe him whereſoever He is, or goeth.</q>
+            </p>
+            <p>
+               <hi>Then he ſaid to the Executioner,</hi> 
+               <q>
+                  <hi>Friend, when I hold up my hands, do thy office;</hi>
+               </q> 
+               <hi>and as he put the Rope over his head, he with expreſſions of joy ſaid;</hi> 
+               <q>
+                  <hi>What a gallant mourning Ribbon is this which I wear for the ſake of my King.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:117998:4"/>
+Then he made many ſhort heavenly ejaculations, pray<g ref="char:EOLhyphen"/>ing earneſtly, and ſaying, <q>Lord I beſeech thee waſh my ſoul clean in the bloud of thy dear Son my bleſſed Saviour from all my ſins; I ſhall</q> (ſaid he) <q>be by and by with thee, I ſhall enjoy the bleſſed preſence of thee my gracious God, my dear Saviour, and all the holy Saints.</q>
+            </p>
+            <p>Then he intreated his friends not to ſuffer the Executi<g ref="char:EOLhyphen"/>oner to pull him by the legs, when the Ladder was turned, or to uſe any violent means, as is uſual to put him ſooner out of his pain; <q>For,</q> ſaid he, <q>I deſire to ſuffer the pains of this death whatſoever it be; nay if it were ten thouſand times more for my ſins, and to wait upon my God, till he deliver my ſoul out of this mortal body.</q>
+            </p>
+            <p>Then he prayed again, and ſaid, <q>into thy hands O Lord Jeſus my bleſſed Saviour, I commend my ſpirit;</q> and ſo he held up his hands, and the Executioner did his Office ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p>But that which was thought very ſtrange, and never ob<g ref="char:EOLhyphen"/>ſerved in any, none of the ſpectators could perceive any motion, or ſtirring of either hand or foot, or the leaſt ap<g ref="char:EOLhyphen"/>pearance of pain in undergoing the ſame.</p>
+         </div>
+         <div type="summary_of_trial_and_execution">
+            <pb n="7" facs="tcp:117998:4"/>
+            <p>This Mr. Sares was taken in Cheſhire, ſince the late fight at Worceſter, and imme<g ref="char:EOLhyphen"/>diatly committed to ſafe cuſtody; but upon the 7. inſtant he was brought to a Tryal be<g ref="char:EOLhyphen"/>fore a Court Marſhal, where the Judge Ad<g ref="char:EOLhyphen"/>vocate (in the name of the whole Court) read the Charge of High Treaſon exhibited againſt him; declaring, That he ſtood im<g ref="char:EOLhyphen"/>peached of Treaſon againſt the Common-Wealth of England, for abetting, and adhe<g ref="char:EOLhyphen"/>ring to Charles Stuart, and holding corre<g ref="char:EOLhyphen"/>ſpondency with the Enemies of this Nati<g ref="char:EOLhyphen"/>on.</p>
+            <p>After reading of the Charge, the Court proceeded to ſentence, viz. That he muſt re<g ref="char:EOLhyphen"/>turn to the priſon from whence he came, and from thence to the place of execution, there to ſuffer the pangs of Death, by being hang'd upon the Gallows.</p>
+            <p>At the pronouncing of this ſentence, he ſeemed to ſmile, ſaying,</p>
+            <q>
+               <pb n="8" facs="tcp:117998:5"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>ALthough I am ſentenced by man, yet Gôd hath adjudged and deſigned me to this Death; and this uſe I rather make of it, That the onely motives and chief cauſe of ſentencing me to this end, is not the leaſt grief or trouble, but rather occaſions alacri<g ref="char:EOLhyphen"/>ty, cheerfulneſs, and comfort, that I am ac<g ref="char:EOLhyphen"/>counted worthy, although by the baſeſt of deaths, to ſuffer for my Dread Soveraign Lord and King.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>He was executed on the 10 inſtant, be<g ref="char:EOLhyphen"/>ing the flower (for ſtature) of England, Scotland, and Ireland; for he was two yards and a quarter compleat in height.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
